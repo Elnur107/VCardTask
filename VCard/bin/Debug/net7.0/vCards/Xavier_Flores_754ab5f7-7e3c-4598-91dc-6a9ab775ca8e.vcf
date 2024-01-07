@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Flores;Xavier;
+FN:Xavier Flores
+EMAIL:xavier.flores@example.com
+TEL:961-357-449
+ADR:;Palma de Mallorca;Spain;
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Guerin;Gaëtan;;;
+FN:Gaëtan Guerin
+EMAIL:gaetan.guerin@example.com
+TEL:079 446 81 38
+ADR:;;Les Genevez (Ju);Switzerland;;;;
+END:VCARD
